@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    background-color: darkblue;
+    color: bisque;
+}
+
+h2{
+    background-image: linear-gradient(to right, azure, red);
+}
+
+.centralizado{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
+
+.justificado{
+    text-align: justify;
+}
+
+img{
+    width: 8rem;
+    right: 8rem;
+}
+
+.Background-1{
+    background-image: url(background-1.jpg);
+}
+
+.Background-2{
+    background-image: url(background-2.jpeg)
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    text-decoration: none;
+    color: blue;
+}
+
+a:focus{
+    text-decoration: none;
+}
+
+ol{
+    list-style-type: upper-alpha;
+}
+
+ul{
+    list-style: url(zap_icone.png);
+}
